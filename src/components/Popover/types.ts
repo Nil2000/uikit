@@ -44,6 +44,8 @@ export type PopoverExternalProps = {
     tooltipOffset?: [number, number];
     /** Tooltip's css class */
     tooltipClassName?: string;
+    /** Tooltip's wrapper css class */
+    tooltipWrapperClassName?: string;
     /** css class for the control */
     className?: string;
     /**
