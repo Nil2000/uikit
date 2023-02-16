@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.1.0](https://github.com/gravity-ui/uikit/compare/v4.0.7...v4.1.0) (2023-02-16)
+
+
+### Features
+
+* **Select:** add opportunity to apply maxHeight style to popup via popupClassName property ([#537](https://github.com/gravity-ui/uikit/issues/537)) ([16786e0](https://github.com/gravity-ui/uikit/commit/16786e0cd58b155774ca746db9e6e4f486b0cc82))
+* **Table:** add onMouseDown action for Table tr ([#534](https://github.com/gravity-ui/uikit/issues/534)) ([4f287b3](https://github.com/gravity-ui/uikit/commit/4f287b3ac45f2cb648db1789efe517f035191df8))
+
+
+### Bug Fixes
+
+* **TextInput:** no unexpected autocomplete when label prop present ([#509](https://github.com/gravity-ui/uikit/issues/509)) ([0a81ce2](https://github.com/gravity-ui/uikit/commit/0a81ce2f0d0017db2256fc71bd317d26aee7f0b5))
+
 ## [4.0.7](https://github.com/gravity-ui/uikit/compare/v4.0.6...v4.0.7) (2023-02-10)
 
 
